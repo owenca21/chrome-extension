@@ -1,5 +1,5 @@
 body {
-  background-color: red !important;
+  background-color: rgb(79, 118, 190) !important;
 }
 
 .rainbow {
@@ -13,26 +13,26 @@ body {
   }
 
   15% {
-    color: orange;
+    color: rgb(255, 145, 0);
   }
 
   30% {
-    color: yellow;
+    color: rgb(255, 238, 0);
   }
 
   45% {
-    color: green;
+    color: rgb(0, 255, 0);
   }
 
   60% {
-    color: blue;
+    color: rgb(0, 17, 255);
   }
 
   75% {
-    color: indigo;
+    color: rgb(149, 0, 255);
   }
 
   90% {
-    color: purple;
+    color: rgb(255, 0, 200);
   }
 }
